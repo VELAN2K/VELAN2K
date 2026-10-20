@@ -1,16 +1,19 @@
-## Hi there 👋
+<pre>
+~$ nano me.txt
 
-<!--
-**VELAN2K/VELAN2K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey There 👋
+I'm <b>Velan</b>, A <b>Fullstack Developer</b> from <b>Algeria</b>.
 
-Here are some ideas to get you started:
+~$ ls skills/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skills.syvixor.com/api/icons?i=typescript,nodejs,nuxt,vue,pinia,beekeeper,postgresql,vscode,opencode&perline=4" />
+  
+~$ fastfetch
+
+🎨 Preferred Color: <b>VANTA BLACK</b>
+💻 Current OS: <b>WINDOWS</b>
+🎮 Favorite Game: <b>GENSHIN IMPACT</b>
+🌸 Passions: <b>Coding</b>, <b>Reading</b>, <b>Watching Anime</b>, <b>Wild Comping</b>
+
+~$ exit
+</pre>
